@@ -60,7 +60,7 @@ This project uses HAL functions that abstract:
 
 ## Demo
 
-Demo video will be uploaded after initial push
+Demo Video Link: https://youtu.be/-b5W9rJqOqQ
 
 ## Comparison
 
